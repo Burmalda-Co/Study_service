@@ -28,3 +28,4 @@ python manage.py test
 Списки: пагинация (`?page=`), поиск (`?search=`), сортировка (`?ordering=-created_at`),
 для assignments и tests — фильтр `?material=<id>`.
 При удалении материала связанные задания и тесты сохраняются (`material` становится `null`).
+# Study_service
